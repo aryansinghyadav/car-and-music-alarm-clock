@@ -24,7 +24,7 @@ const VEHICLES: Vehicle[] = [
       'https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?auto=format&fit=crop&q=80&w=1000',
       'https://images.unsplash.com/photo-1592198084033-aade902d1aae?auto=format&fit=crop&q=80&w=1000'
     ],
-    soundUrl: 'https://assets.mixkit.co/active_storage/sfx/2571/2571-preview.mp3',
+    soundUrl: 'https://www.soundjay.com/transportation/sounds/car-engine-idle-03.mp3',
     color: '#3b82f6',
     maxSpeed: 420
   },
@@ -38,7 +38,7 @@ const VEHICLES: Vehicle[] = [
       'https://images.unsplash.com/photo-1583121274602-3e2820c69888?auto=format&fit=crop&q=80&w=1000',
       'https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&q=80&w=1000'
     ],
-    soundUrl: 'https://assets.mixkit.co/active_storage/sfx/2572/2572-preview.mp3',
+    soundUrl: 'https://www.soundjay.com/transportation/sounds/car-engine-idle-05.mp3',
     color: '#ff3333',
     maxSpeed: 340
   },
@@ -52,7 +52,7 @@ const VEHICLES: Vehicle[] = [
       'https://images.unsplash.com/photo-1544636331-e26879cd4d9b?auto=format&fit=crop&q=80&w=1000',
       'https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?auto=format&fit=crop&q=80&w=1000'
     ],
-    soundUrl: 'https://assets.mixkit.co/active_storage/sfx/2573/2573-preview.mp3',
+    soundUrl: 'https://www.soundjay.com/transportation/sounds/car-engine-idle-01.mp3',
     color: '#facc15',
     maxSpeed: 350
   },
@@ -66,7 +66,7 @@ const VEHICLES: Vehicle[] = [
       'https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&q=80&w=1000',
       'https://images.unsplash.com/photo-1592198084033-aade902d1aae?auto=format&fit=crop&q=80&w=1000'
     ],
-    soundUrl: 'https://assets.mixkit.co/active_storage/sfx/2574/2574-preview.mp3',
+    soundUrl: 'https://www.soundjay.com/transportation/sounds/car-engine-idle-04.mp3',
     color: '#fb923c',
     maxSpeed: 341
   },
@@ -80,7 +80,7 @@ const VEHICLES: Vehicle[] = [
       'https://images.unsplash.com/photo-1583121274602-3e2820c69888?auto=format&fit=crop&q=80&w=1000',
       'https://images.unsplash.com/photo-1511919884226-fd3cad34687c?auto=format&fit=crop&q=80&w=1000'
     ],
-    soundUrl: 'https://assets.mixkit.co/active_storage/sfx/2575/2575-preview.mp3',
+    soundUrl: 'https://www.soundjay.com/transportation/sounds/car-engine-idle-02.mp3',
     color: '#ff3333',
     maxSpeed: 318
   },
@@ -94,7 +94,7 @@ const VEHICLES: Vehicle[] = [
       'https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?auto=format&fit=crop&q=80&w=1000',
       'https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?auto=format&fit=crop&q=80&w=1000'
     ],
-    soundUrl: 'https://assets.mixkit.co/active_storage/sfx/2576/2576-preview.mp3',
+    soundUrl: 'https://www.soundjay.com/transportation/sounds/motorcycle-idle-01.mp3',
     color: '#22c55e',
     maxSpeed: 400
   },
@@ -108,7 +108,7 @@ const VEHICLES: Vehicle[] = [
       'https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?auto=format&fit=crop&q=80&w=1000',
       'https://images.unsplash.com/photo-1449491073997-90ce396ff661?auto=format&fit=crop&q=80&w=1000'
     ],
-    soundUrl: 'https://assets.mixkit.co/active_storage/sfx/2577/2577-preview.mp3',
+    soundUrl: 'https://www.soundjay.com/transportation/sounds/motorcycle-idle-02.mp3',
     color: '#3b82f6',
     maxSpeed: 303
   },
@@ -122,7 +122,7 @@ const VEHICLES: Vehicle[] = [
       'https://images.unsplash.com/photo-1449491073997-90ce396ff661?auto=format&fit=crop&q=80&w=1000',
       'https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?auto=format&fit=crop&q=80&w=1000'
     ],
-    soundUrl: 'https://assets.mixkit.co/active_storage/sfx/2578/2578-preview.mp3',
+    soundUrl: 'https://www.soundjay.com/transportation/sounds/motorcycle-idle-03.mp3',
     color: '#3b82f6',
     maxSpeed: 299
   },
@@ -136,7 +136,7 @@ const VEHICLES: Vehicle[] = [
       'https://images.unsplash.com/photo-1591637333184-19aa84b3e01f?auto=format&fit=crop&q=80&w=1000',
       'https://images.unsplash.com/photo-1449491073997-90ce396ff661?auto=format&fit=crop&q=80&w=1000'
     ],
-    soundUrl: 'https://assets.mixkit.co/active_storage/sfx/2579/2579-preview.mp3',
+    soundUrl: 'https://www.soundjay.com/transportation/sounds/motorcycle-idle-04.mp3',
     color: '#fb923c',
     maxSpeed: 312
   },
@@ -150,7 +150,7 @@ const VEHICLES: Vehicle[] = [
       'https://images.unsplash.com/photo-1558981403-c5f9899a28bc?auto=format&fit=crop&q=80&w=1000',
       'https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?auto=format&fit=crop&q=80&w=1000'
     ],
-    soundUrl: 'https://assets.mixkit.co/active_storage/sfx/2580/2580-preview.mp3',
+    soundUrl: 'https://www.soundjay.com/transportation/sounds/motorcycle-idle-05.mp3',
     color: '#ff3333',
     maxSpeed: 299
   }
@@ -167,6 +167,7 @@ export const VehicleSection: React.FC<{ alarmMusicSrc?: string | null, isAlarmPl
   const [temperature, setTemperature] = useState(40); // 40 to 120
   const [gear, setGear] = useState<1 | 2 | 3 | 'N' | 'R'>('N');
   const [angleIndex, setAngleIndex] = useState(0);
+  const [turboPressure, setTurboPressure] = useState(0);
   const [volume, setVolume] = useState(0.5);
   const [showVolumeSlider, setShowVolumeSlider] = useState(false);
   const [showGallery, setShowGallery] = useState(false);
@@ -175,6 +176,9 @@ export const VehicleSection: React.FC<{ alarmMusicSrc?: string | null, isAlarmPl
   const audioRef = useRef<HTMLAudioElement>(null);
   const musicAudioRef = useRef<HTMLAudioElement>(null);
   const ambientAudioRef = useRef<HTMLAudioElement>(null);
+  const turboAudioRef = useRef<HTMLAudioElement>(null);
+  const blowOffAudioRef = useRef<HTMLAudioElement>(null);
+  const prevThrottleRef = useRef(0);
   
   const currentVehicle = VEHICLES[currentIndex];
 
@@ -210,6 +214,27 @@ export const VehicleSection: React.FC<{ alarmMusicSrc?: string | null, isAlarmPl
     }
     return () => clearInterval(interval);
   }, [isThrottling]);
+
+  // Turbo Logic
+  useEffect(() => {
+    const interval = window.setInterval(() => {
+      if (isSoundPlaying && throttleValue > 0.5 && gear !== 'N') {
+        setTurboPressure(prev => Math.min(prev + 0.02, 1));
+      } else {
+        setTurboPressure(prev => Math.max(prev - 0.05, 0));
+      }
+
+      // Detect rapid throttle release for blow-off
+      if (prevThrottleRef.current > 0.7 && throttleValue < 0.3 && turboPressure > 0.5) {
+        if (blowOffAudioRef.current) {
+          blowOffAudioRef.current.currentTime = 0;
+          blowOffAudioRef.current.play().catch(() => {});
+        }
+      }
+      prevThrottleRef.current = throttleValue;
+    }, 50);
+    return () => clearInterval(interval);
+  }, [isSoundPlaying, throttleValue, gear, turboPressure]);
 
   // Speed Logic
   useEffect(() => {
@@ -281,20 +306,35 @@ export const VehicleSection: React.FC<{ alarmMusicSrc?: string | null, isAlarmPl
 
   useEffect(() => {
     if (audioRef.current) {
-      // Adjust playback rate or volume based on throttle and gear
+      // Smoother throttle for audio to prevent clipping/harshness
+      const smoothedThrottle = throttleValue * 0.8 + prevThrottleRef.current * 0.2;
       const gearPitch = gear === 1 ? 1.2 : gear === 2 ? 1.0 : gear === 3 ? 0.8 : 1.0;
       const baseRate = 1.0 * gearPitch;
       const maxRate = 2.5 * gearPitch;
-      audioRef.current.playbackRate = baseRate + (throttleValue * (maxRate - baseRate));
-      audioRef.current.volume = (0.3 + (throttleValue * 0.7)) * volume;
+      
+      // Natural lag in audio response
+      const targetRate = baseRate + (smoothedThrottle * (maxRate - baseRate));
+      audioRef.current.playbackRate = audioRef.current.playbackRate * 0.9 + targetRate * 0.1;
+      audioRef.current.volume = (0.3 + (smoothedThrottle * 0.7)) * volume;
     }
+    
+    if (turboAudioRef.current) {
+      turboAudioRef.current.volume = turboPressure * volume * 0.4;
+      turboAudioRef.current.playbackRate = 1.0 + turboPressure * 0.5;
+      if (turboPressure > 0.1 && turboAudioRef.current.paused && isSoundPlaying) {
+        turboAudioRef.current.play().catch(() => {});
+      } else if (turboPressure <= 0.1 && !turboAudioRef.current.paused) {
+        turboAudioRef.current.pause();
+      }
+    }
+
     if (musicAudioRef.current) {
       musicAudioRef.current.volume = volume;
     }
     if (ambientAudioRef.current) {
       ambientAudioRef.current.volume = volume * 0.3;
     }
-  }, [throttleValue, volume, gear]);
+  }, [throttleValue, volume, gear, turboPressure, isSoundPlaying]);
 
   // Ambient Sound Logic
   useEffect(() => {
@@ -533,6 +573,31 @@ export const VehicleSection: React.FC<{ alarmMusicSrc?: string | null, isAlarmPl
             </div>
           )}
           
+          {/* Exhaust Fumes */}
+          {isSoundPlaying && (
+            <div className="absolute bottom-10 right-4 flex flex-col items-end z-20 pointer-events-none">
+              {[...Array(5)].map((_, i) => (
+                <motion.div
+                  key={i}
+                  initial={{ opacity: 0, scale: 0.5, x: 0, y: 0 }}
+                  animate={{ 
+                    opacity: [0, 0.4 * (0.5 + throttleValue * 0.5), 0],
+                    scale: [0.5, 2 + throttleValue * 2, 4],
+                    x: [0, 20 + Math.random() * 40, 40 + Math.random() * 80],
+                    y: [0, -10 - Math.random() * 20, -20 - Math.random() * 40]
+                  }}
+                  transition={{ 
+                    duration: 1.5 + Math.random(),
+                    repeat: Infinity,
+                    delay: i * 0.3,
+                    ease: "easeOut"
+                  }}
+                  className="w-4 h-4 bg-gray-400/30 rounded-full blur-xl absolute"
+                />
+              ))}
+            </div>
+          )}
+
           {/* Scanline Overlay */}
           <div className="absolute inset-0 pointer-events-none bg-[linear-gradient(rgba(18,16,16,0)_50%,rgba(0,0,0,0.25)_50%),linear-gradient(90deg,rgba(255,0,0,0.06),rgba(0,255,0,0.02),rgba(0,0,255,0.06))] bg-[length:100%_2px,3px_100%]"></div>
           
@@ -549,7 +614,14 @@ export const VehicleSection: React.FC<{ alarmMusicSrc?: string | null, isAlarmPl
               SPD: <span className="text-radio-lit font-digital">{Math.abs(speed).toFixed(0)}</span> <span className="text-[8px]">KM/H</span>
             </div>
             <div className="text-[10px] font-mono text-gray-400 mt-1">
-              GEAR: <span className="text-radio-lit font-digital">{gear}</span>
+              GEAR: <motion.span 
+                key={gear}
+                initial={{ scale: 1.5, color: '#fff' }}
+                animate={{ scale: 1, color: '#3b82f6' }}
+                className="text-radio-lit font-digital inline-block"
+              >
+                {gear}
+              </motion.span>
             </div>
             <div className="text-[8px] font-mono text-gray-500 mt-2 flex items-center gap-1">
               <div className={`w-1.5 h-1.5 rounded-full ${isSoundPlaying ? 'bg-green-500 shadow-led' : 'bg-gray-600'}`}></div>
@@ -807,6 +879,17 @@ export const VehicleSection: React.FC<{ alarmMusicSrc?: string | null, isAlarmPl
           console.error("Audio failed to load:", currentVehicle.soundUrl);
           setIsSoundPlaying(false);
         }}
+      />
+      <audio 
+        ref={turboAudioRef}
+        src="https://www.soundjay.com/transportation/sounds/jet-fly-by-01.mp3"
+        loop
+        preload="auto"
+      />
+      <audio 
+        ref={blowOffAudioRef}
+        src="https://www.soundjay.com/transportation/sounds/air-release-01.mp3"
+        preload="auto"
       />
       <audio 
         ref={musicAudioRef} 
